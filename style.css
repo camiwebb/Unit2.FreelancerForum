@@ -1,0 +1,11 @@
+#avg {
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+}
+body {
+    margin: 30px;
+}
+h1 {
+    text-align: center;
+}
